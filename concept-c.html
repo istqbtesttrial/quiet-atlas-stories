@@ -1,0 +1,60 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="description" content="Two bilingual reflections on trust, dominance and surrender.">
+  <title>Two Voices — Bilingual stories</title>
+  <link rel="stylesheet" href="styles.css">
+  <script src="app.js" defer></script>
+</head>
+<body class="margin">
+  <div class="progress-line" data-progress aria-hidden="true"></div>
+  <header class="margin-header">
+    <a class="margin-brand" href="index.html"><span class="block">TWO</span>VOICES</a>
+    <nav class="story-nav" aria-label="Stories">
+      <a href="?story=1" data-story-link="1" data-nav-story="1">01 / Story</a>
+      <a href="?story=2" data-story-link="2" data-nav-story="2">02 / Story</a>
+    </nav>
+    <div class="lang-switch" role="group" aria-label="Language selection">
+      <button type="button" data-lang="en" aria-pressed="true">EN</button>
+      <button type="button" data-lang="fr" aria-pressed="false">FR</button>
+    </div>
+  </header>
+
+  <main>
+    <section class="margin-hero">
+      <aside class="margin-rail"><span data-rail-label>Independent bilingual writing · Issue 01</span></aside>
+      <div class="margin-main">
+        <div>
+          <span class="margin-kicker" data-story-label>Story one</span>
+          <h1 data-story-title>The Light Between Stations</h1>
+        </div>
+        <div class="margin-summary">
+          <p data-story-subtitle>A night train, a forgotten letter, and a city waiting at dawn.</p>
+          <div class="margin-meta"><span data-story-read>8 min read</span><span data-counter>01 / 02</span><span>English ↔ Français</span></div>
+        </div>
+      </div>
+    </section>
+
+    <section class="margin-reading">
+      <aside class="margin-reading-rail" aria-hidden="true"></aside>
+      <div class="margin-reading-main">
+        <article class="margin-content">
+          <h2 data-story-chapter>I. The last departure</h2>
+          <div class="story-body" data-story-body></div>
+        </article>
+        <aside class="margin-note">
+          <strong data-note-label>Margin note</strong>
+          <p data-story-quote>Some journeys begin only after the timetable has given up on us.</p>
+        </aside>
+      </div>
+    </section>
+  </main>
+
+  <footer class="margin-footer">
+    <a href="design-gallery.html" data-gallery-label>← Design study</a>
+    <a href="?story=2" data-next-story>Next story →</a>
+  </footer>
+</body>
+</html>
