@@ -64,31 +64,79 @@ const STORIES = {
         "La soumission ne devrait jamais être quémandée : elle devrait être inspirée. Et quand une soumise se donne enfin tout entière, elle découvre ce que signifie être vue dans sa totalité, guidée avec certitude, et comblée au point que toute question s’efface..."
       ]
     }
+  },
+  3: {
+    en: {
+      label: "Story three",
+      title: "Her Fragility, My Truth",
+      subtitle: "On innocence, guidance, devotion, and a truth written together.",
+      read: "5 min read",
+      chapter: "Fragility · Guidance · Devotion",
+      quote: "The rest, we will write together. Hand in hand. Soul to soul.",
+      body: [
+        "She arrived without fanfare, like a breeze slipping through a window left carelessly open. Suddenly, nothing was where it belonged anymore. This gentle disruption—she—burst into the order of my world with a fragility matched only by her light. I had not searched. I had not asked. And yet there she was, weaving into my silence laughter I thought I had lost, tracing across my lips smiles I believed belonged to another time.",
+        "She is unique, unlike anyone I have ever encountered. All awkwardness and unintentional grace, she stumbles through life with an innocence that grips me in the gut. Her trembling hands, the way her eyes seek mine for reassurance, her silences filled with a thousand unspoken questions—everything in her cries out for a guide. Not a savior, but a steady hand to accompany her where she does not yet dare to go alone.",
+        "She carries within her the shadows of small stories, fragments of relationships in which no one ever showed her what she is truly worth. She thinks her lack of experience is a flaw. She thinks her limited past makes her unworthy. She is afraid—that gnawing fear of failing, of not being enough, of disappointing me. I see that fear lurking deep in her eyes when she lowers them. I feel it tremble in her voice when she whispers her doubts.",
+        "But she does not yet know what I already know.",
+        "Her innocence is not an emptiness. It is untouched ground, a blank canvas on which we will write the most beautiful of stories together. I will teach her everything. Not only gestures or words, but the very essence of what she is capable of becoming. I will show her that her submission is not an absence, but a sleeping strength she does not yet suspect. I will teach her discipline, not as a chain, but as a sacred structure within which her soul can finally flourish without fear. Every rule will be a gift, every boundary pushed a shared victory, every correction proof that I believe in her enough not to let her settle for less.",
+        "I will make a true woman of her—not in the sense the world gives those words, but in the deeper one: standing tall within her vulnerability, carrying proudly what she hides today. I will teach her to give herself without shame, to receive without guilt, to stand beside me knowing who she is.",
+        "And through all of this, she will make me truer. Her budding trust will compel me to be beyond reproach. Her awkward tenderness will melt my armor. Her fear of failure will fuel my endless patience. Because she deserves me to be worthy of what she offers, even before she knows she is offering it.",
+        "I will cherish her soul. Not only today, not only tomorrow. Forever. Because she will not simply give me her body or her submission; she will entrust me with what is most precious in her, that part of herself no one has ever known how to see. And I will keep it safe. I will protect it. I will polish it until it shines with all the radiance the world stole from her.",
+        "She thinks she is afraid of disappointing me. She does not know that nothing in her could disappoint me, because everything in her is already exactly what I need. The rest, we will write together. Hand in hand. Soul to soul.",
+        "And when she is finally on her knees, not because I forced her there, but because she has understood that it is where she feels most herself, I will know that we have found our truth. Hers. Mine. Ours.",
+        "For eternity."
+      ]
+    },
+    fr: {
+      label: "Troisième récit",
+      title: "Sa fragilité, ma vérité",
+      subtitle: "Sur l’innocence, l’accompagnement, la dévotion et une vérité écrite à deux.",
+      read: "5 min de lecture",
+      chapter: "Fragilité · Accompagnement · Dévotion",
+      quote: "Le reste, nous l’écrirons ensemble. Main dans la main. Âme contre âme.",
+      body: [
+        "Elle est arrivée sans tambour ni trompette, comme une brise qui franchit une fenêtre oubliée ouverte. Soudain, rien n’était plus à sa place. Cette douce perturbation, elle, a fait irruption dans l’ordre de mon monde avec une fragilité qui n’a d’égale que sa lumière. Je n’avais pas cherché. Je n’avais pas demandé. Et pourtant, la voilà, tissant dans mon silence des rires que je croyais perdus, dessinant sur mes lèvres des sourires que je pensais réservés à un autre temps.",
+        "Elle est unique, d’une espèce que je n’avais encore jamais croisée. Toute en maladresse et en grâce involontaire, elle trébuche dans la vie avec cette innocence qui me prend aux tripes. Ses mains qui tremblent, ses regards qui cherchent le mien pour s’y rassurer, ses silences emplis de mille questions non dites, tout en elle crie qu’elle a besoin d’un guide. Non pas d’un sauveur, mais d’une main ferme pour l’accompagner là où elle n’ose pas aller seule.",
+        "Elle porte en elle les ombres de petites histoires, de bribes de relations où on ne lui a jamais montré ce qu’elle vaut vraiment. Elle croit manquer d’expérience, comme si c’était une tare. Elle croit que son passé léger la rend indigne. Elle a peur, cette peur rongeante d’échouer, de ne pas être assez, de me décevoir. Je la vois, cette peur, tapie au fond de ses prunelles quand elle baisse les yeux. Je la sens vibrer dans sa voix quand elle murmure ses doutes.",
+        "Mais elle ne sait pas encore ce que je sais déjà.",
+        "Son innocence n’est pas un vide. C’est un terrain vierge, une toile blanche où je vais pouvoir écrire avec elle la plus belle des histoires. Je vais lui apprendre tout. Pas seulement les gestes ou les mots, mais l’essence même de ce qu’elle est capable de devenir. Je vais lui montrer que sa soumission n’est pas une absence, mais une force qui dort, qu’elle ne soupçonne même pas. Je vais lui enseigner la discipline, non pas comme une chaîne, mais comme une structure sacrée dans laquelle son âme pourra enfin s’épanouir sans crainte. Chaque règle sera un cadeau, chaque limite repoussée une victoire partagée, chaque correction une preuve que je crois en elle assez pour ne pas la laisser en rester là.",
+        "Je vais faire d’elle une vraie femme, non pas au sens que le monde entend, mais au sens profond, celui où elle se tiendra droite dans sa vulnérabilité, où elle portera haut ce qu’elle cache aujourd’hui. Je vais lui apprendre à se donner sans honte, à recevoir sans culpabilité, à se tenir à mes côtés en sachant qui elle est.",
+        "Et elle, dans tout cela, me rendra plus vrai. Sa confiance naissante me forcera à être irréprochable. Sa tendresse maladroite fera fondre mes armures. Sa peur d’échouer sera le moteur de ma patience infinie. Parce qu’elle mérite que je sois à la hauteur de ce qu’elle m’offre, même avant qu’elle ne sache qu’elle l’offre.",
+        "Je chérirai son âme. Pas seulement aujourd’hui, pas seulement demain. Pour toujours. Parce qu’elle ne me donnera pas simplement son corps ou sa soumission, elle me confiera ce qu’elle a de plus précieux, cette part d’elle-même que personne n’a jamais su voir. Et moi, je la garderai. Je la protégerai. Je la polirai jusqu’à ce qu’elle brille de tout l’éclat que le monde lui a volé.",
+        "Elle pense qu’elle a peur de me décevoir. Elle ignore que rien en elle ne pourrait me décevoir, parce que tout en elle est déjà exactement ce dont j’ai besoin. Le reste, nous l’écrirons ensemble. Main dans la main. Âme contre âme.",
+        "Et quand elle sera enfin à genoux, non pas parce que je l’y aurai forcée, mais parce qu’elle aura compris que c’est là qu’elle se sent le plus elle-même, je saurai que nous avons trouvé notre vérité. La sienne. La mienne. La nôtre.",
+        "Pour l’éternité."
+      ]
+    }
   }};
 
 const UI = {
   en: {
-    nav: ["01 / Story", "02 / Story"],
+    nav: ["01 / Story", "02 / Story", "03 / Story"],
     rail: "Independent bilingual writing · Issue 01",
     note: "Margin note",
     gallery: "← Design study",
     next: "Next story →",
-    previous: "← First story",
+    first: "← First story",
     atlasNote: "A reflection on trust, responsibility and the language shared between souls."
   },
   fr: {
-    nav: ["01 / Récit", "02 / Récit"],
+    nav: ["01 / Récit", "02 / Récit", "03 / Récit"],
     rail: "Écrits bilingues indépendants · Numéro 01",
     note: "Note en marge",
     gallery: "← Étude visuelle",
     next: "Récit suivant →",
-    previous: "← Premier récit",
+    first: "← Premier récit",
     atlasNote: "Une réflexion sur la confiance, la responsabilité et le langage partagé entre les âmes."
   }
 };
 
-const params = new URLSearchParams(location.search);
-let storyId = params.get("story") === "2" ? 2 : 1;
+function getStoryId() {
+  const value = Number(new URLSearchParams(location.search).get("story"));
+  return STORIES[value] ? value : 1;
+}
+
+let storyId = getStoryId();
 let language = localStorage.getItem("story-language") === "fr" ? "fr" : "en";
 
 function render() {
@@ -116,7 +164,7 @@ function render() {
     link.href = `?story=${id}`;
   });
   const counter = document.querySelector("[data-counter]");
-  if (counter) counter.textContent = `0${storyId} / 02`;
+  if (counter) counter.textContent = `0${storyId} / 03`;
 
   const ui = UI[language];
   document.querySelectorAll("[data-nav-story]").forEach(link => {
@@ -127,10 +175,10 @@ function render() {
   document.querySelectorAll("[data-gallery-label]").forEach(el => el.textContent = ui.gallery);
   document.querySelectorAll("[data-atlas-note]").forEach(el => el.textContent = ui.atlasNote);
   document.querySelectorAll("[data-next-story]").forEach(link => {
-    const nextId = storyId === 1 ? 2 : 1;
+    const nextId = storyId === 3 ? 1 : storyId + 1;
     link.href = `?story=${nextId}`;
     link.dataset.targetStory = String(nextId);
-    link.textContent = storyId === 1 ? ui.next : ui.previous;
+    link.textContent = storyId === 3 ? ui.first : ui.next;
   });
 }
 
@@ -153,7 +201,7 @@ document.querySelectorAll("[data-story-link], [data-next-story]").forEach(link =
 });
 
 window.addEventListener("popstate", () => {
-  storyId = new URLSearchParams(location.search).get("story") === "2" ? 2 : 1;
+  storyId = getStoryId();
   render();
 });
 
