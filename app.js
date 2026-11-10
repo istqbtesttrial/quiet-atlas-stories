@@ -34,36 +34,6 @@ const STORIES = {
         "Et quand cela advient, quand une personne soumise offre son âme et que je réponds par la mienne, cela semble presque sacré. C’est alors que le BDSM dépasse l’échange de pouvoir. Il devient vérité. Il devient vie..."
       ]
     }
-  },
-  2: {
-    en: {
-      label: "Story two",
-      title: "The Art of Her Surrender",
-      subtitle: "On quiet power, earned trust, and the surrender that is inspired rather than taken.",
-      read: "2 min read",
-      chapter: "Presence · Trust · Surrender",
-      quote: "Submission should never be begged for, it should be inspired.",
-      body: [
-        "Knowing one’s worth changes everything. There is no need to chase, no need to prove anything to anyone. Power speaks quietly when it is real. True dominance is not about shouting, it is about presence—the kind that draws a submissive closer without her even realizing why...",
-        "A submissive is never simply taken, she is understood. Her surrender is not forced, it is awakened. Desire is found in discovering what makes her yield, what makes her crave the guidance only a true Dominant can give. Control is not about force, it is about trust, and trust is earned through consistency, clarity, and strength. Only the one who proves himself worthy will ever see her on her knees...",
-        "Satisfaction is not a one-sided victory. Her pleasure and her fulfillment are inseparable from his. The true Dominant reads what words cannot express, pushes limits when the moment calls for it, and protects when restraint is needed. A submissive under such command feels desired, safe, and alive long after the moment has passed...",
-        "Submission should never be begged for, it should be inspired. And when a submissive finally gives herself fully, she discovers what it means to be seen completely, guided with certainty, and satisfied beyond questions..."
-      ]
-    },
-    fr: {
-      label: "Deuxième récit",
-      title: "L’Art de son abandon",
-      subtitle: "Sur le pouvoir silencieux, la confiance méritée et l’abandon inspiré plutôt qu’imposé.",
-      read: "2 min de lecture",
-      chapter: "Présence · Confiance · Abandon",
-      quote: "La soumission ne devrait jamais être quémandée : elle devrait être inspirée.",
-      body: [
-        "Connaître sa valeur change tout. Nul besoin de courir après qui que ce soit, nul besoin de prouver quoi que ce soit à qui que ce soit. Le pouvoir parle bas quand il est véritable. La véritable domination ne s’exprime pas dans les cris ; elle réside dans la présence — celle qui attire une soumise sans qu’elle sache même pourquoi...",
-        "Une soumise ne se prend pas : elle se comprend. Son abandon n’est pas imposé, il est éveillé. Le désir naît lorsqu’on découvre ce qui la fait céder, ce qui lui fait désirer ardemment la direction que seul un véritable Dominant peut lui offrir. Le contrôle ne repose pas sur la force, mais sur la confiance — une confiance qui se mérite par la constance, la clarté et la force. Seul celui qui se montre digne la verra un jour à genoux...",
-        "La satisfaction n’est pas une victoire unilatérale. Son plaisir et son épanouissement sont indissociables des siens. Le véritable Dominant lit ce que les mots ne peuvent exprimer, repousse les limites quand l’instant l’exige, et protège quand la retenue s’impose. Une soumise sous un tel commandement se sent désirée, en sécurité, et vivante bien après que le moment se soit évanoui...",
-        "La soumission ne devrait jamais être quémandée : elle devrait être inspirée. Et quand une soumise se donne enfin tout entière, elle découvre ce que signifie être vue dans sa totalité, guidée avec certitude, et comblée au point que toute question s’efface..."
-      ]
-    }
   }
 };
 
@@ -121,7 +91,7 @@ function render() {
     link.href = `?story=${id}`;
   });
   const counter = document.querySelector("[data-counter]");
-  if (counter) counter.textContent = `0${storyId} / 02`;
+  if (counter) counter.textContent = `0${storyId} / 01`;
 
   const ui = UI[language];
   document.querySelectorAll("[data-nav-story]").forEach(link => {
@@ -132,10 +102,10 @@ function render() {
   document.querySelectorAll("[data-gallery-label]").forEach(el => el.textContent = ui.gallery);
   document.querySelectorAll("[data-atlas-note]").forEach(el => el.textContent = ui.atlasNote);
   document.querySelectorAll("[data-next-story]").forEach(link => {
-    const nextId = storyId === 2 ? 1 : storyId + 1;
+    const nextId = 1;
     link.href = `?story=${nextId}`;
     link.dataset.targetStory = String(nextId);
-    link.textContent = storyId === 2 ? ui.first : ui.next;
+    link.textContent = ui.first;
   });
 }
 
@@ -150,7 +120,7 @@ document.querySelectorAll("[data-lang]").forEach(button => {
 document.querySelectorAll("[data-story-link], [data-next-story]").forEach(link => {
   link.addEventListener("click", event => {
     event.preventDefault();
-    storyId = Number(link.dataset.storyLink || link.dataset.targetStory);
+    storyId = 1;
     history.pushState({}, "", `?story=${storyId}`);
     window.scrollTo({ top: 0, behavior: matchMedia("(prefers-reduced-motion: reduce)").matches ? "auto" : "smooth" });
     render();
