@@ -64,12 +64,56 @@ const STORIES = {
         "La soumission ne devrait jamais être quémandée : elle devrait être inspirée. Et quand une soumise se donne enfin tout entière, elle découvre ce que signifie être vue dans sa totalité, guidée avec certitude, et comblée au point que toute question s’efface..."
       ]
     }
+  },
+  3: {
+  "fr": {
+    "label": "Troisième récit",
+    "title": "Sa clarté, ma destinée",
+    "subtitle": "Main dans la main. Âme contre âme.",
+    "read": "4 min de lecture",
+    "chapter": "Clarté · Confiance · Destinée",
+    "quote": "Son abandon, quand il viendra, sera ma plus grande responsabilité.",
+    "body": [
+      "Elle est arrivée comme on n'arrive jamais, sans bruit et pourtant en bouleversant chaque pierre de mon édifice. Une perturbation si douce que je ne savais plus si c'était le chaos ou la grâce qui frappait à ma porte. Elle m'a fait sourire, elle m'a fait rire, elle a réveillé en moi des échos que je croyais éteints depuis longtemps. Et je l'ai regardée, cette créature unique, forte et fragile à la fois, portant sa douceur comme une armure et sa vulnérabilité comme un drapeau, et j'ai su que rien ne serait plus jamais pareil.",
+      "Elle a traversé la vie avec une clarté qui éblouit. Elle sait qui elle est, elle sait ce qu'elle veut, elle porte en elle la force de celles qui ont survécu. Des relations, un mariage, des chapitres écrits et refermés, elle en a connu. Et pourtant, devant l'immensité de ce monde qui est le nôtre, elle se tient comme une novice devant un océan qu'elle n'a jamais osé traverser. Aucune expérience. Aucune carte. Juste cette âme pure qui cherche une main pour la guider vers des rives qu'elle ne soupçonne pas.",
+      "Elle a peur. Cette peur là, je la connais bien. Ce n'est pas la peur de la douleur, ni celle de l'inconnu. C'est la peur de perdre un peu le contrôle, de se laisser aller, de confier à quelqu'un d'autre les rênes de ce qu'elle a toujours tenu si fermement. Elle craint ce moment où la tête cesse de commander et où le corps, l'âme, le cœur prennent le relais. Elle craint de se défaire, même un peu, de cette maîtrise qu'elle a bâtie pierre par pierre pour se protéger.",
+      "Mais elle ne sait pas encore ce que je vois en elle.",
+      "Je vais lui apprendre tout. Pas avec force, pas avec hâte, mais avec cette patience infinie que mérite une âme aussi précieuse. Je vais lui montrer que perdre le contrôle n'est pas s'effondrer, c'est se confier. Je vais lui enseigner le plaisir contrôlé, ce plaisir qui naît quand deux êtres se rencontrent dans une confiance absolue, quand chaque sensation est guidée, chaque limite respectée, chaque désir éveillé avec soin et intention. Ce n'est pas une perte, c'est une offrande. Et quand elle comprendra cela, quand elle sentira que je tiens ses rênes non pour l'asservir mais pour la libérer, elle comprendra enfin ce que signifie être comblée.",
+      "Je vais faire d'elle une femme comblée, non pas en la changeant, mais en révélant ce qu'elle porte déjà en elle. Cette force qu'elle croit devoir toujours montrer, je vais lui apprendre à la poser entre mes mains le temps d'un instant. Cette fragilité qu'elle cache, je vais lui apprendre à l'offrir comme le plus beau de ses trésors. Je serai son guide, son repère, celui devant qui elle n'a pas besoin de jouer un rôle, celui qui lit en elle ce que personne n'a jamais su lire.",
+      "Et elle, dans ce voyage, me rendra plus vrai encore. Sa confiance, quand elle naîtra, sera le plus beau cadeau qu'on m'ait jamais fait. Son abandon, quand il viendra, sera ma plus grande responsabilité. Sa peur de perdre le contrôle sera le moteur de ma vigilance infinie, de ma présence absolue. Parce qu'elle mérite que je sois digne de chaque pas qu'elle fera vers moi.",
+      "Je chérirai son âme. Pas seulement aujourd'hui, pas seulement demain. Pour toujours. Parce qu'elle ne me donnera pas simplement son corps ou sa soumission, elle me confiera ce qu'elle a de plus précieux, cette part d'elle-même que le monde n'a jamais su accueillir. Et moi, je la garderai. Je la protégerai. Je la polirai jusqu'à ce qu'elle brille de tout l'éclat que la vie lui a volé.",
+      "Elle pense qu'elle a peur de se perdre. Elle ignore que c'est en se perdant un peu entre mes mains qu'elle se trouvera enfin. Le reste, nous l'écrirons ensemble. Main dans la main. Âme contre âme.",
+      "Et quand elle sera enfin là, apaisée, comblée, sachant que je tiens chaque fibre de son être avec le même soin qu'on porte à ce qu'on aime le plus au monde, je saurai que nous avons trouvé notre vérité. La sienne. La mienne. La nôtre.",
+      "<em>Pour l'éternité.</em>"
+    ]
+  },
+  "en": {
+    "label": "Story three",
+    "title": "Her Clarity, My Destiny",
+    "subtitle": "Hand in hand. Soul against soul.",
+    "read": "4 min read",
+    "chapter": "Clarity · Trust · Destiny",
+    "quote": "Her surrender, when it comes, will be my greatest responsibility.",
+    "body": [
+      "She arrived the way no one ever arrives, without a sound, and yet she shook every stone of my fortress. A disturbance so gentle that I could no longer tell whether it was chaos or grace knocking at my door. She made me smile, she made me laugh, she awakened echoes in me that I had thought long extinct. And I looked at her, that singular creature, strong and fragile all at once, wearing her softness like armor and her vulnerability like a flag, and I knew that nothing would ever be the same.",
+      "She has walked through life with a clarity that dazzles. She knows who she is, she knows what she wants, she carries within her the strength of those who have survived. Lovers, a marriage, chapters written and closed, she has known them. And yet, before the vastness of this world that is ours, she stands like a novice before an ocean she has never dared to cross. No experience. No map. Only that pure soul seeking a hand to guide her toward shores she cannot yet imagine.",
+      "She is afraid. That fear, I know it well. It is not the fear of pain, nor the fear of the unknown. It is the fear of letting go, of surrendering the reins of what she has always held so tightly. She dreads that moment when the mind stops giving orders and the body, the soul, the heart take over. She dreads loosening, even slightly, that mastery she built stone by stone to protect herself.",
+      "But she does not yet know what I see in her.",
+      "I will teach her everything. Not with force, not with haste, but with the infinite patience that a soul so precious deserves. I will show her that losing control is not falling apart, it is trusting. I will teach her the art of controlled pleasure, that pleasure born when two beings meet in absolute trust, when every sensation is guided, every boundary honored, every desire awakened with care and intention. It is not a loss, it is an offering. And when she understands this, when she feels that I hold her reins not to enslave her but to set her free, she will finally know what it means to be fulfilled.",
+      "I will make her a woman fulfilled, not by changing her, but by revealing what she already carries within. That strength she believes she must always display, I will teach her to lay it in my hands for a moment. That fragility she hides, I will teach her to offer it as her most beautiful treasure. I will be her guide, her anchor, the one before whom she needs to play no role, the one who reads in her what no one has ever known how to read.",
+      "And she, in that journey, will make me truer still. Her trust, when it is born, will be the most beautiful gift anyone has ever given me. Her surrender, when it comes, will be my greatest responsibility. Her fear of losing control will be the fuel of my infinite vigilance, my absolute presence. Because she deserves that I be worthy of every step she takes toward me.",
+      "I will cherish her soul. Not only today, not only tomorrow. Forever. Because she will not simply give me her body or her submission, she will entrust me with what is most precious to her, that part of herself the world never knew how to welcome. And I will keep it. I will protect it. I will polish it until it shines with all the brilliance life stole from her.",
+      "She thinks she is afraid of losing herself. She does not know that it is in losing herself a little between my hands that she will finally be found. The rest, we will write together. Hand in hand. Soul against soul.",
+      "And when she is finally there, at peace, fulfilled, knowing that I hold every fiber of her being with the same care one gives to what one loves most in this world, I will know that we have found our truth. Hers. Mine. Ours.",
+      "<em>For eternity.</em>"
+    ]
   }
+}
 };
 
 const UI = {
   en: {
-    nav: ["01 / Story", "02 / Story"],
+    nav: ["01 / Story", "02 / Story", "03 / Story"],
     rail: "Independent bilingual writing · Issue 01",
     note: "Margin note",
     gallery: "← Design study",
@@ -78,7 +122,7 @@ const UI = {
     atlasNote: "A reflection on trust, responsibility and the language shared between souls."
   },
   fr: {
-    nav: ["01 / Récit", "02 / Récit"],
+    nav: ["01 / Récit", "02 / Récit", "03 / Récit"],
     rail: "Écrits bilingues indépendants · Numéro 01",
     note: "Note en marge",
     gallery: "← Étude visuelle",
@@ -121,7 +165,7 @@ function render() {
     link.href = `?story=${id}`;
   });
   const counter = document.querySelector("[data-counter]");
-  if (counter) counter.textContent = `0${storyId} / 02`;
+  if (counter) counter.textContent = `0${storyId} / 03`;
 
   const ui = UI[language];
   document.querySelectorAll("[data-nav-story]").forEach(link => {
@@ -132,10 +176,10 @@ function render() {
   document.querySelectorAll("[data-gallery-label]").forEach(el => el.textContent = ui.gallery);
   document.querySelectorAll("[data-atlas-note]").forEach(el => el.textContent = ui.atlasNote);
   document.querySelectorAll("[data-next-story]").forEach(link => {
-    const nextId = storyId === 2 ? 1 : storyId + 1;
+    const nextId = storyId === 3 ? 1 : storyId + 1;
     link.href = `?story=${nextId}`;
     link.dataset.targetStory = String(nextId);
-    link.textContent = storyId === 2 ? ui.first : ui.next;
+    link.textContent = storyId === 3 ? ui.first : ui.next;
   });
 }
 
